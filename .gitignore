@@ -3,3 +3,7 @@
 data/
 *.pth.tar
 __pycache__/
+*.log
+training.log
+training_error.log
+.superpowers/
