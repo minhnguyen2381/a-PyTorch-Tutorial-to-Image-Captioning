@@ -1,3 +1,5 @@
+> 🇻🇳 **Tiếng Việt:** xem [Hướng dẫn sử dụng cho người mới bắt đầu](docs/HUONG_DAN_SU_DUNG.md). The code in this fork has been updated to run on Python 3.10+ / PyTorch 2.x.
+
 This is a **[PyTorch](https://pytorch.org) Tutorial to Image Captioning**.
 
 This is the first in [a series of tutorials](https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch) I'm writing about _implementing_ cool models on your own with the amazing PyTorch library.
