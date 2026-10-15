@@ -1,0 +1,8 @@
+# PyTorch (torch, torchvision) cài riêng theo hướng dẫn trong docs/HUONG_DAN_SU_DUNG.md
+h5py
+nltk
+scikit-image
+matplotlib
+pillow
+tqdm
+numpy
